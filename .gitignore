@@ -1,0 +1,7 @@
+# Compiled source #
+###################
+*.pyc
+
+# Local save #
+##############
+highscore.txt
