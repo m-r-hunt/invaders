@@ -1,0 +1,12 @@
+Invaders Game
+(c)2013 Maximilian Hunt
+
+Licensed under the GNU GPLv2, see license.md
+
+A simple game of blasting aliens.
+
+Requires 32-bit Python 2.7 and appropriate Pygame.
+
+$python invaders.py
+
+to run.
